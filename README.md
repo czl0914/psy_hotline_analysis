@@ -84,7 +84,7 @@ We provide the following contents for reproduction of our experiments:
 
 * `result`: This is the directory where the experimental results are stored, and the csv files that store the predicted values and real values.
 
-* [`evaluation/eval_bootstrap_ci.py`](<https://github.com/GuanghuiFU/medical_cv_foundation_eval/blob/main/evaluation/eval_boostrap_ci.py>): This code used to calculate various evaluation indicators for multi-label experiments.Including weighted precision, weighted f1, weighted recall, and indicators of each fine-grained emotion category.
+* [`code/compute.py`](<https://github.com/czl0914/psy_hotline_analysis/blob/main/code/compute.ipynb>): This code used to calculate various evaluation indicators for multi-label experiments.Including weighted precision, weighted f1, weighted recall, and indicators of each fine-grained emotion category.
 
   
 
